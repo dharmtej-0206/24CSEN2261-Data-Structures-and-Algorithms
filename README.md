@@ -9,3 +9,21 @@ Sorting Techniques
 [02_SelectionSort.py](selectionSort.py)  
 [03_MergeSort.py](MergeSort.py)  
 [04_RadixSort.py](radixSort.py)  
+
+🚀 How to Use
+
+    Clone the repository:
+
+git clone https://github.com/your-username/24CSEN2261-Data-Structures-and-Algorithms.git
+
+Navigate to the directory:
+
+cd 24CSEN2261-Data-Structures-and-Algorithms
+
+Run any Python script to execute the respective algorithm:
+
+    python BubbleSort.py
+
+📜 License
+
+This project is for educational purposes. Feel free to use and modify the code.
