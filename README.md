@@ -1,5 +1,6 @@
- 24CSEN2261-Data-Structures-and-Algorithms
-
-This Repo 24CSEN2261-Data-Structures-and-Algorithms  is created to store important files and and code regarding course for data structures course in GITAM university
-
-
+## Index
+Sorting Techniques
+[01_BubbleSort](BubbleSort.py)
+[02_SelectionSort](selectionSort.py)
+[03_MergeSort](MergeSort.py)
+[04_RadixSort](radixSort.py)
