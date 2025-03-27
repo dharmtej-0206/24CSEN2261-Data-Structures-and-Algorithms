@@ -12,9 +12,10 @@ Sorting Techniques
 
 🚀 How to Use
 
-    Clone the repository:
+ Clone the repository:
 
-git clone https://github.com/your-username/24CSEN2261-Data-Structures-and-Algorithms.git
+    git clone https://github.com/your-username/24CSEN2261-Data-Structures-and-Algorithms.git
+   
 
 Navigate to the directory:
 
